@@ -123,7 +123,7 @@ To build an interactive dashboard that:
 ---
 
 ### 📈 Power BI Dashboard
-![Power BI Dashboard](./Snapshot%20of%20PBI%20Dashboard%20with%20tooltip.png)
+![Power BI Dashboard]([./Snapshot%20of%20PBI%20Dashboard%20with%20tooltip.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-Power%20BI/Snapshot%20of%20PBI%20Dashboard.png))
 
 ---
 
