@@ -149,5 +149,3 @@ It showcases the ability to turn **raw financial data into actionable insights**
 
 ---
 
-## 📬 Contact
-- 🔗 LinkedIn: https://www.linkedin.com/in/prathit-tijare
