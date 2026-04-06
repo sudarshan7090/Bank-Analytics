@@ -119,11 +119,15 @@ To build an interactive dashboard that:
 
 
 ### 📈 Power BI Dashboard
+🔗 **Live Power BI Dashboard:**  
+https://app.powerbi.com/view?r=eyJrIjoiNjc5YTE0NTktNmJlOC00OWE0LTgxMWYtZWE3MGIxMjMzMTRiIiwidCI6IjRiNjhjMzliLWU3ZTUtNDMzZC04ODRiLTZmMGQ2NTU1MWVmNyJ9 
 ![Power BI Dashboard](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-Power%20BI/Snapshot%20of%20PBI%20Dashboard.png)
 
 ---
 
 ### 📉 Tableau Dashboard
+🔗 **Live Power BI Dashboard:**
+https://public.tableau.com/views/BA-TableauDashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ![Tableau Dashboard](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-%20Tableau/Snapshot%20of%20Dashboard-Tableau.png)
 
 ---
