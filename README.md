@@ -117,18 +117,19 @@ To build an interactive dashboard that:
 
 ## 📸 Screenshots / Demos
 
-### 📉 Tableau Dashboard
-![Tableau Dashboard]([./Snapshot%20of%20Dashboard-Tableau.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-%20Tableau/Snapshot%20of%20Dashboard-Tableau.png))
-
----
 
 ### 📈 Power BI Dashboard
 ![Power BI Dashboard]([./Snapshot%20of%20PBI%20Dashboard%20with%20tooltip.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-Power%20BI/Snapshot%20of%20PBI%20Dashboard.png))
 
 ---
 
+### 📉 Tableau Dashboard
+![Tableau Dashboard]([./Snapshot%20of%20Dashboard-Tableau.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-%20Tableau/Snapshot%20of%20Dashboard-Tableau.png))
+
+---
+
 ### 📊 Excel Dashboard
-![Excel Dashboard](./Snapshot%20of%20Dashboard-Excel.png)
+![Excel Dashboard]([./Snapshot%20of%20Dashboard-Excel.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dasboard-Excel/Snapshot%20of%20Dashboard-Excel.png))
 
 ---
 
