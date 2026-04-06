@@ -118,7 +118,7 @@ To build an interactive dashboard that:
 ## 📸 Screenshots / Demos
 
 ### 📉 Tableau Dashboard
-![Tableau Dashboard](./Snapshot%20of%20Dashboard-Tableau.png)
+![Tableau Dashboard]([./Snapshot%20of%20Dashboard-Tableau.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-%20Tableau/Snapshot%20of%20Dashboard-Tableau.png))
 
 ---
 
