@@ -129,7 +129,7 @@ To build an interactive dashboard that:
 ---
 
 ### 📊 Excel Dashboard
-![Excel Dashboard]([./Snapshot%20of%20Dashboard-Excel.png](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dasboard-Excel/Snapshot%20of%20Dashboard-Excel.png))
+![Excel Dashboard](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dasboard-Excel/Snapshot%20of%20Dashboard-Excel.png)
 
 ---
 
