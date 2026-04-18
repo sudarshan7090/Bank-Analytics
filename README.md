@@ -126,7 +126,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNjc5YTE0NTktNmJlOC00OWE0LTgxMWYtZWE3MGIxM
 ---
 
 ### 📉 Tableau Dashboard
-🔗 **Live Power BI Dashboard:**
+🔗 **Live Tableau Dashboard:**
 https://public.tableau.com/views/BA-TableauDashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ![Tableau Dashboard](https://github.com/sudarshan7090/Bank-Analytics/blob/main/Images/Snapshot%20of%20Dashboard-%20Tableau/Snapshot%20of%20Dashboard-Tableau.png)
 
